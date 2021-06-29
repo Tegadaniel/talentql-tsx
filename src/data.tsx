@@ -1,0 +1,1 @@
+export const colorData = ["yellow", "blue", "red", "lightblue", "green", "gray"]
